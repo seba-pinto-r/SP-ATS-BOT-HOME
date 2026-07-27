@@ -2,5 +2,5 @@
     "version": "1.0.3",
     "firmware": "SP-Electric-ATS-Bot",
     "date": "2026-07-26",
-    "description": "Versión inicial"
+    "description": "Incorporacion monitoreo estado de energia ATS por telegram"
 }
