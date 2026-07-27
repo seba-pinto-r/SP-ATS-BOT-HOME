@@ -1,6 +1,6 @@
 {
-    "version": "1.0.0",
-    "firmware": "SP_Framework_OTA_v1_0_0",
+    "version": "1.0.1",
+    "firmware": "SP-Electric-ATS-Bot",
     "date": "2026-07-26",
     "description": "Versión inicial"
 }
